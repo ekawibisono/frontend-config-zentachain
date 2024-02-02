@@ -1,0 +1,21 @@
+[
+	{
+		"title": "Zentachain Mainnet [Coming Soon]",
+		"url": "https://explorer-sepolia.zentachain.io/",
+		"group": "Mainnets",
+		"icon": "https://i.postimg.cc/m2xB91bJ/image.png"
+	},
+	{
+		"title": "ZentaChain Testnet",
+		"url": "https://explorer-sepolia.zentachain.io/",
+		"group": "Testnets",
+		"icon": "https://i.postimg.cc/m2xB91bJ/image.png",
+		"isActive": true
+	},
+	{
+		"title": "ETH Sepolia",
+		"url": "https://eth-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+    }
+]

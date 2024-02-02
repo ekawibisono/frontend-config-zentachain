@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://devs-chain.zentachain.io/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ZentaChain"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/zentachain"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.com/invite/TR5bv3e8Ny"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/ZentachainOfficialChat"
+            },
+            {
+                "text": "Reddit",
+                "url": "https://www.reddit.com/r/ZentaChain/"
+            }
+        ]
+    },
+    {
+        "title": "About Zentachain",
+        "links": [
+            {
+                "text": "About",
+                "url": "https://zentachain.io/"
+            }
+        ]
+    }
+]
