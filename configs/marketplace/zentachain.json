@@ -1,0 +1,57 @@
+[
+	{
+		"author": "ZentaChain",
+		"id": "zenta-node",
+		"title": "Zenta-Node",
+		"logo": "https://zentanode.com/cdn/shop/files/zentachain200x200_90x.png?v=1647022578",
+		"categories": ["DeFi"],
+		"shortDescription": "Zentanode works with any phone, tablet, or computer, or as a stand-alone device.",
+		"site": "https://zentachain.io/zentanode",
+		"description": "Zentanode works with any phone, tablet, or computer, or as a stand-alone device.",
+		"url": "https://zentachain.io/zentanode"
+	},
+	{
+		"author": "ZentaChain",
+		"id": "Zenta-mesh",
+		"title": "Zentamesh",
+		"logo": "https://zentanode.com/cdn/shop/files/zentachain200x200_90x.png?v=1647022578",
+		"categories": ["Data"],
+		"shortDescription": "Leverage Zentamesh's advanced routing and self-healing algorithms to ensure secure, private, and uninterrupted connectivity.",
+		"site": "https://zentachain.io/zentamesh",
+		"description": "Zentamesh, a core component of Zentachain, is redefining communication with its advanced, decentralized network designed for IoT and low-bandwidth applications. Experience the next generation of secure, scalable, and efficient connectivity.",
+		"url": "https://zentachain.io/zentamesh"
+	},
+	{
+		"author": "ZentaChain",
+		"id": "zen-talk",
+		"title": "Zentalk",
+		"logo": "https://zentanode.com/cdn/shop/files/zentachain200x200_90x.png?v=1647022578",
+		"categories": ["Dev tooling"],
+		"shortDescription": "Zentalk hybrid encrypted decentralized peer-to-peer messenger application without cloud storage.",
+		"site": "https://zentachain.io/zentalk",
+		"description": "Zentalk is an ultra-secure, hybrid encrypted decentralized peer-to-peer messenger application without cloud storage. Next to great usability, under the hood, users will find state-of-the-art encryption with AES-256, DH, RSA, and El-Gamal security.",
+		"url": "https://zentachain.io/zentalk"
+	},
+	{
+		"author": "ZentaChain",
+		"id": "zen-chainnetwork",
+		"title": "Chain Network",
+		"logo": "https://zentanode.com/cdn/shop/files/zentachain200x200_90x.png?v=1647022578",
+		"categories": ["Infra & Dev tooling"],
+		"shortDescription": "Chain network, enhanced with IoT and Telecom features, empowers telecom providers to create advanced decentralized apps.",
+		"site": "https://zentachain.io/chainnetwork",
+		"description": "Chain network, enhanced with IoT and Telecom features, empowers telecom providers to create advanced decentralized apps. It streamlines operations like fund transfers, smart contract execution, and accessing network data. Zentamesh, a key component, optimizes data exchange by broadcasting CHAIN data across Zentanodes, ensuring reliable, offline-compatible communication with high throughput and low fees.",
+		"url": "https://zentachain.io/chainnetwork"
+	},
+	{
+		"author": "ZentaChain",
+		"id": "zen-bridge",
+		"title": "Bridge ZentaChain",
+		"logo": "https://zentanode.com/cdn/shop/files/zentachain200x200_90x.png?v=1647022578",
+		"categories": ["Bridges"],
+		"shortDescription": "Bridge for ZentaChain.",
+		"site": "https://sepolia-bridge.zentachain.io/",
+		"description": "Bridge for ZentaChain.",
+		"url": "https://sepolia-bridge.zentachain.io/"
+	}
+]
